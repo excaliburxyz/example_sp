@@ -3,7 +3,7 @@
 // Fungsi untuk mempersiapkan bahan-bahan
 void persiapanBahan() {
     printf("Persiapan Bahan:\n");
-    printf("Bahan-bahan yang dipersiapkan: nasi matang, bawang putih, bawang merah, cabai, sayuran, telur, kecap, garam, minyak goreng\n\n");
+    printf("    Bahan-bahan yang dipersiapkan: nasi matang, bawang putih, bawang merah, cabai, sayuran, telur, kecap, garam, minyak goreng\n\n");
 }
 
 // Fungsi untuk menumis bumbu
